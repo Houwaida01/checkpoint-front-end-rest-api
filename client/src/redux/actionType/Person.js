@@ -1,0 +1,3 @@
+export const GET_PERSON="GET_PERSON"
+export const LOAD_PERSON="LOAD_PERSON"
+export const FAIL_PERSON="FAIL_PERSON"
